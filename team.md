@@ -11,7 +11,7 @@ title: ""
 
 # Team Members
 
-**Arafeh Bigdel** (Postdoctoral Fellow, in progress, co-supervised with Dr. Tom Blydt-Hansen) 
+**Arafeh Bigdel** (Postdoctoral Fellow, in progress, co-supervised with Doctor Tom Blydt-Hansen) 
 
 **Nikolas Krstic** (PhD. in Statistics, in progress)
 
