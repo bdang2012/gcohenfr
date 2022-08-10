@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+# project
+_site
+.sass-cache
+.vagrant
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.Rproj.user
+=======
+# project
+_site
+.sass-cache
+.vagrant
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+>>>>>>> c457eefae9f5aab9d67cc8e9603c3f30829707cb
